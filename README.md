@@ -58,6 +58,13 @@ Uruchom Skrypt: Użyj głównego pliku run_server.py:
 ```Bash
 python run_server.py
 ```
+
+<img width="602" height="709" alt="obraz" src="https://github.com/user-attachments/assets/5babf6f7-4997-4aba-9089-8b342340a904" />
+
+
+
+
+
 # 💻 PS5 Payload Sender (Y2JB Integration)
 
 The PS5 Payload Sender (Y2JB) is a Python automation tool (Flask/CLI) for remote payload delivery to PS5 consoles. It scans the local network on port 50000 (Y2JB listener) in Full Auto mode or handles manual sends.
@@ -116,3 +123,5 @@ Run the Script: Use the main file run_server.py:
 ```bash
 python run_server.py
 ```
+<img width="604" height="704" alt="obraz" src="https://github.com/user-attachments/assets/9aa66263-837d-4831-b1a8-5a49f2cff63b" />
+
